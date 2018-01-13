@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SearchToolbar</string>
+    <string name="abc_search_hints">Search...</string>
+
+    <string-array name="query_suggestions">
+        <item>Karun</item>
+        <item>kaju Singh</item>
+        <item>Karan</item>
+        <item>Neha</item>
+        <item>Neop</item>
+        <item>Pre</item>
+        <item>Nuin</item>
+        <item>Niowel</item>
+    </string-array>
+</resources>
